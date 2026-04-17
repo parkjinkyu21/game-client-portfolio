@@ -149,4 +149,4 @@
 ## 라이선스
 
 이 저장소는 MIT License를 따릅니다.  
-자세한 내용은 [LICENSE](LICENSE) 파일을 참고해주세요.
+자세한 내용은 [LICENSE](../../LICENSE) 파일을 참고해주세요.

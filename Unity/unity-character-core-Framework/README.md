@@ -304,7 +304,7 @@ ScreenBlendController
 ## 라이선스
 
 MIT License를 따릅니다.  
-자세한 내용은 [LICENSE](LICENSE) 파일을 참고해주세요.
+자세한 내용은 [LICENSE](../../LICENSE) 파일을 참고해주세요.
 
 Unity 제공 패키지(Addressables, URP 등)는 Unity의 정책을 따르며,  
 외부 라이브러리(UniTask, DOTween 등)는 각 라이브러리의 라이선스를 따릅니다.
